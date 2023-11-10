@@ -1,0 +1,56 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #edebeb;
+  font-family: Arial, Helvetica, sans-serif;
+  color: black;
+}
+header,
+footer,
+section {
+  padding: 20px;
+}
+
+header {
+  padding: 20px;
+  background-color: ;
+}
+
+.experience,
+.competences {
+  padding: 20px;
+  border-bottom: 1px solid;
+}
+
+h1 {
+  text-align: center;
+  color: ;
+  font-family: "Abril Fatface", serif;
+  font-size: 40px;
+}
+
+h2,
+h3 {
+  font-family: "Abril Fatface", serif;
+}
+
+.section h2 {
+  background-color: #2c2c2c;
+  padding: 20px;
+}
+.section h2 {
+  color: #edebeb;
+}
+
+img {
+  border-radius: 100px;
+}
+.container {margin: 20px;}
+
+.imagecenter {text-align:center;}
+
+.section {
+  margin-bottom: 20px;
+  font-weight: normal;
+  border: 5px solid #edebeb;
+}
